@@ -1,0 +1,13 @@
+api-gateway/env
+service-media/env
+service-user/env
+
+api-gateway/node_modules
+service-media/node_modules
+service-user/node_modules
+test-jwt/node_modules
+
+api-gateway/package-lock.json
+service-media/package-lock.json
+service-user/package-lock.json
+test-jwt/package-lock.json
