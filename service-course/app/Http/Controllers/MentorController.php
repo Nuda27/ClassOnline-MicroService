@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Mentor;
+use App\Models\Mentor;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
